@@ -43,7 +43,7 @@ project-folder/
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/auto-bg-changer.git
+   git clone https://github.com/HarshS16/JS_Project_Unlimited_Colors
    ```
 2. Open the `index.html` file in any web browser.
 
